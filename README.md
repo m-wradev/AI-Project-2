@@ -1,6 +1,6 @@
 # AI-Project-2
 
-## How to Build
+## How to Compile
 Type "make" in the directory containing the makefile.  I personally use MINGW64 but you can use anything that supports makefiles.
 
 ## How to Run
